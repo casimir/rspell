@@ -6,7 +6,7 @@ A simple practical spellcheker.
 
 ## Dependencies caveats
 
-This crates wraps hunspell's source directly. To do so it uses the [`cc-rs`](https://crates.io/crates/cc)
+This crate wraps hunspell's source directly. To do so it uses the [`cc-rs`](https://crates.io/crates/cc)
 crate when building. As such the same limitations applies, for example a compiler must be
 installed on the system.
 
