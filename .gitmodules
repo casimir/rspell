@@ -1,0 +1,4 @@
+[submodule "hunspell"]
+	path = hunspell
+	url = https://github.com/hunspell/hunspell
+	branch = 4ddd8ed5ca6484b930b111aec50c2750a6119a0f

@@ -1,0 +1,209 @@
+[dictionaries]
+directories = [
+    "/usr/share/hunspell/",
+    "/usr/share/myspell/",
+    "/usr/share/myspell/dicts/",
+    "/usr/share/enchant",
+    "/Library/Spelling/",
+    "/usr/local/share/hunspell/",
+    "/usr/local/share/enchant/",
+]
+user_directories = [
+    "Library/Spelling/",
+    ".enchant/",
+    ".enchant/ispell/",
+    ".enchant/uspell/",
+]
+
+[dictionaries.sources.af_ZA]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/af_ZA/af_ZA.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/af_ZA/af_ZA.dic"
+[dictionaries.sources.an_ES]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/an_ES/an_ES.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/an_ES/an_ES.dic"
+[dictionaries.sources.ar]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/ar/fr.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/ar/fr.dic"
+[dictionaries.sources.be_BY]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/be_BY/fr.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/be_BY/fr.dic"
+[dictionaries.sources.bg_BG]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/bg_BG/fr.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/bg_BG/fr.dic"
+[dictionaries.sources.bn_BD]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/bn_BD/fr.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/bn_BD/fr.dic"
+[dictionaries.sources.bo]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/bo/fr.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/bo/fr.dic"
+[dictionaries.sources.br_FR]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/br_FR/fr.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/br_FR/fr.dic"
+[dictionaries.sources.bs_BA]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/bs_BA/fr.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/bs_BA/fr.dic"
+[dictionaries.sources.ca]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/ca/fr.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/ca/fr.dic"
+[dictionaries.sources.ca-valencia]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/ca-valencia/fr.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/ca-valencia/fr.dic"
+[dictionaries.sources.cs_CZ]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/cs_CZ/cs_CZ.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/cs_CZ/cs_CZ.dic"
+[dictionaries.sources.da_DK]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/da_DK/da_DK.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/da_DK/da_DK.dic"
+[dictionaries.sources.de_AT_frami]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/de/de_AT_frami.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/de/de_AT_frami.dic"
+[dictionaries.sources.de_CH_frami]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/de/de_CH_frami.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/de/de_CH_frami.dic"
+[dictionaries.sources.de_DE_frami]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/de/de_DE_frami.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/de/de_DE_frami.dic"
+[dictionaries.sources.el_GR]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/el_GR/el_GR.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/el_GR/el_GR.dic"
+[dictionaries.sources.en_AU]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/en/en_AU.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/en/en_AU.dic"
+[dictionaries.sources.en_CA]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/en/en_CA.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/en/en_CA.dic"
+[dictionaries.sources.en_GB]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/en/en_GB.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/en/en_GB.dic"
+[dictionaries.sources.en_US]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/en/en_US.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/en/en_US.dic"
+[dictionaries.sources.en_ZA]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/en/en_ZA.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/en/en_ZA.dic"
+[dictionaries.sources.es_ANY]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/es/es_ANY.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/es/es_ANY.dic"
+[dictionaries.sources.et_EE]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/et_EE/et_EE.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/et_EE/et_EE.dic"
+[dictionaries.sources.fr_FR]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/fr_FR/fr.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/fr_FR/fr.dic"
+[dictionaries.sources.gd_GB]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/gd_GB/gd_GB.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/gd_GB/gd_GB.dic"
+[dictionaries.sources.gl_ES]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/gl/gl_ES.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/gl/gl_ES.dic"
+[dictionaries.sources.gu_IN]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/gu_IN/gu_IN.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/gu_IN/gu_IN.dic"
+[dictionaries.sources.gug]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/gug/gug.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/gug/gug.dic"
+[dictionaries.sources.he_IL]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/he_IL/he_IL.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/he_IL/he_IL.dic"
+[dictionaries.sources.hi_IN]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/hi_IN/hi_IN.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/hi_IN/hi_IN.dic"
+[dictionaries.sources.hr_HR]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/hr_HR/hr_HR.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/hr_HR/hr_HR.dic"
+[dictionaries.sources.hu_HU]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/hu_HU/hu_HU.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/hu_HU/hu_HU.dic"
+[dictionaries.sources.id_ID]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/id/id_ID.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/id/id_ID.dic"
+[dictionaries.sources.is]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/is/is.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/is/is.dic"
+[dictionaries.sources.it_IT]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/it_IT/it_IT.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/it_IT/it_IT.dic"
+[dictionaries.sources.kmr_LATN]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/kmr_Latn/kmr_Latn.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/kmr_Latn/kmr_Latn.dic"
+[dictionaries.sources.lo_LA]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/lo_LA/lo_LA.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/lo_LA/lo_LA.dic"
+[dictionaries.sources.lt_LT]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/lt_LT/lt.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/lt_LT/lt.dic"
+[dictionaries.sources.lv_LV]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/lv_LV/lv_LV.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/lv_LV/lv_LV.dic"
+[dictionaries.sources.ne_NP]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/ne_NP/ne_NP.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/ne_NP/ne_NP.dic"
+[dictionaries.sources.nl_NL]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/nl_NL/nl_NL.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/nl_NL/nl_NL.dic"
+[dictionaries.sources.nb_NO]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/no/nb_NO.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/no/nb_NO.dic"
+[dictionaries.sources.nn_NO]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/no/nn_NO.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/no/nn_NO.dic"
+[dictionaries.sources.oc_FR]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/oc_FR/oc_FR.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/oc_FR/oc_FR.dic"
+[dictionaries.sources.pl_PL]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/pl_PL/pl_PL.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/pl_PL/pl_PL.dic"
+[dictionaries.sources.pt_BR]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/pt_BR/pt_BR.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/pt_BR/pt_BR.dic"
+[dictionaries.sources.pt_PT]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/pt_PT/pt_PT.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/pt_PT/pt_PT.dic"
+[dictionaries.sources.ro_RO]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/ro/ro_RO.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/ro/ro_RO.dic"
+[dictionaries.sources.ru_RU]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/ru_RU/ru_RU.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/ru_RU/ru_RU.dic"
+[dictionaries.sources.si_LK]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/si_LK/si_LK.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/si_LK/si_LK.dic"
+[dictionaries.sources.sk_SK]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/sk_SK/sk_SK.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/sk_SK/sk_SK.dic"
+[dictionaries.sources.sl_SI]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/sl_SI/sl_SI.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/sl_SI/sl_SI.dic"
+[dictionaries.sources.sq_AL]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/sq_AL/sq_AL.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/sq_AL/sq_AL.dic"
+[dictionaries.sources.sr_LATN]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/sr/sr-Latn.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/sr/sr-Latn.dic"
+[dictionaries.sources.sr]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/sr/sr.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/sr/sr.dic"
+[dictionaries.sources.sv_FI]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/sv_SE/sv_FI.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/sv_SE/sv_FI.dic"
+[dictionaries.sources.sv_SE]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/sv_SE/sv_SE.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/sv_SE/sv_SE.dic"
+[dictionaries.sources.sw_TZ]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/sw_TZ/sw_TZ.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/sw_TZ/sw_TZ.dic"
+[dictionaries.sources.te_IN]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/te_IN/te_IN.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/te_IN/te_IN.dic"
+[dictionaries.sources.th_TH]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/th_TH/th_TH.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/th_TH/th_TH.dic"
+[dictionaries.sources.tr_TR]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/tr_TR/tr_TR.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/tr_TR/tr_TR.dic"
+[dictionaries.sources.uk_UA]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/uk_UA/uk_UA.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/uk_UA/uk_UA.dic"
+[dictionaries.sources.vi_VN]
+aff = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/vi/vi_VN.aff"
+dic = "https://cgit.freedesktop.org/libreoffice/dictionaries/plain/vi/vi_VN.dic"
