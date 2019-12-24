@@ -1,12 +1,12 @@
 [package]
 name = "rspell"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Martin Chaine <martin@casimir.me>"]
 edition = "2018" 
 description = "A simple practical spellcheker."
 repository = "https://github.com/casimir/rspell"
 keywords = ["spelling", "spellchecking"]
-categories = ["spellchecking"]
+categories = ["text-processing"]
 license = "Apache-2.0 OR MIT"
 readme = "README.md"
 
